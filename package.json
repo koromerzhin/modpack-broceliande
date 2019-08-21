@@ -1,0 +1,24 @@
+{
+  "name": "broceliande",
+  "version": "1.0.0",
+  "description": "https://www.curseforge.com/minecraft/modpacks/broceliande",
+  "main": "index.js",
+  "scripts": {
+    "commit": "sgc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koromerzhin/broceliande.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koromerzhin/broceliande/issues"
+  },
+  "homepage": "https://github.com/koromerzhin/broceliande#readme",
+  "dependencies": {
+    "gitmoji-changelog": "^1.1.0",
+    "semantic-git-commit-cli": "^3.3.0"
+  }
+}
