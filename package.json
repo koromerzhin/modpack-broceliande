@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/koromerzhin/broceliande#readme",
   "dependencies": {
-    "gitmoji-changelog": "^1.1.0",
+    "gitmoji-changelog": "^2.0.0",
     "semantic-git-commit-cli": "^3.3.0"
   }
 }
