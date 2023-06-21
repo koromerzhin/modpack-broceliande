@@ -4,7 +4,7 @@
   "description": "https://www.curseforge.com/minecraft/modpacks/broceliande",
   "main": "index.js",
   "scripts": {
-    "commit": "sgc"
+    "lint:markdown": "markdownlint readme.md"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/koromerzhin/broceliande#readme",
   "dependencies": {
-    "gitmoji-changelog": "^2.0.0",
-    "semantic-git-commit-cli": "^3.3.0"
+    "korojscommands": "^1.2.19"
   }
 }
