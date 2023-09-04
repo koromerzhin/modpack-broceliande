@@ -10,7 +10,7 @@ jobs:
         php-versions: ["7.4"]
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Cache npm packages
         id: npm-cache
         uses: actions/cache@v3
